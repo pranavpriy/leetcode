@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranavpriy/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/pranavpriy/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pranavpriy/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/pranavpriy/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pranavpriy/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pranavpriy/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/pranavpriy/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pranavpriy/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/pranavpriy/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
