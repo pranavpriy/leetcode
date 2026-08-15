@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/pranavpriy/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pranavpriy/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranavpriy/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/pranavpriy/leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/pranavpriy/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/pranavpriy/leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranavpriy/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/pranavpriy/leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
+## Enumeration
+|  |
+| ------- |
+| [3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and](https://github.com/pranavpriy/leetcode/tree/master/3825-longest-strictly-increasing-subsequence-with-non-zero-bitwise-and) |
 <!---LeetCode Topics End-->
